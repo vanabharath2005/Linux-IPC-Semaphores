@@ -104,6 +104,7 @@ return 0;
 
 ## OUTPUT
 $ ./sem.o 
+
 ![image](https://github.com/user-attachments/assets/83b9d5b6-2638-4918-ac2f-d67bc7669c3a)
 
 ![image](https://github.com/user-attachments/assets/99f168b1-4301-4488-b7c5-5e9c89f234ea)
@@ -112,6 +113,7 @@ $ ./sem.o
 
 
 $ ipcs
+
 ![image](https://github.com/user-attachments/assets/7d57dd32-577c-4f53-a388-e4814cca0bcc)
 
 
